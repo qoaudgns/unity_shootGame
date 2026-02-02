@@ -12,6 +12,15 @@
 /[Uu]ser[Ss]ettings/
 *.log
 
+/Assets/Prefabs/
+/Assets/Sound/
+/Assets/Sprites/
+/Assets/Tile/
+/Assets/Free Pack/
+/Assets/Animation/
+/Assets/Settings/
+/Assets/TextMesh Pro/
+
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
 *.blend1
 *.blend1.meta
