@@ -20,6 +20,12 @@
 /Assets/Animation/
 /Assets/Settings/
 /Assets/TextMesh Pro/
+/Assets/_Recovery
+/.idea/
+/ProjectSettings
+/Assets/*.meta
+/Assets/InputSystem_Actions.inputactions
+/Assets/Material/
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
 *.blend1
